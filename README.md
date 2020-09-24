@@ -17,3 +17,8 @@ Create a basic HTML web page. Using the UFO dataset provided in the form of an a
 
 **Level 2: Multiple Search Categories**\
 Using multiple input tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the criteria based on the table columns.
+
+#### Final Files Include:
+- index.html Website File
+- Static folder that contains css styling, image files, and javascript files
+- There are two JavaScript files - one containing the data and one for the website interactivity
